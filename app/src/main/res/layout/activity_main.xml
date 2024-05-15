@@ -5,14 +5,11 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-<<<<<<<<< Temporary merge branch 1
     android:orientation="vertical"
     tools:context=".MainActivity">
     <Button
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
-</LinearLayout>
-=========
-    tools:context=".MainActivity"/>
->>>>>>>>> Temporary merge branch 2
+</androidx.constraintlayout.widget.ConstraintLayout>
+
